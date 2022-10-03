@@ -1,5 +1,5 @@
 # Welcome to Vicky's Page 👋
-Check out the sections in the page navigator below and I hope to get to know you too 😄
+Nice to "meet" you! Check out the sections in the page navigator below and I hope to hear your thoughts 😄
 
 ---
 
