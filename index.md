@@ -1,6 +1,16 @@
 # Vicky's Page
 
-### *Welcome!* 👋 
+**Welcome!** 👋 Check out the sections in the page navigator below and I hope to get to know you too 😄
+
+---
+
+[My Academic Background](academic-background) **|**
+[Career Endeavors](career-endeavors) **|**
+[About Me](about-me)
+
+---
+
+### Academic background
 I'm Vicky, a fourth year at UC San Diego in Marshall College studying CS (~~computer science~~ cognitive science). I've taken a few computer science courses out of interest and decided to minor in it as well since I could easily fulfill the requirements. Due to the nature of cognitive science being more broad, it gives me a more open-minded perspective of many subjects and concerns in life that I think would actually be helpful if computer science majors took it seriously too. Like how Professor Powell pointed out,
  > improving software development is **_not_** about the tools and techniques used by programmers, but the quality of the programmers themselves... it's always a people problem.
 
@@ -9,7 +19,7 @@ I'm Vicky, a fourth year at UC San Diego in Marshall College studying CS (~~comp
 
 On a more personal note as a programmer, I don't actually have a _favorite_ programming language, but I do have preferences over others. I am most familiar with `Java`, `JavaScript`, `Python`, and `C++`, so I would naturally prefer these over other languages I'm less familiar with like `C`. Among the familiar languages, my preferences depend on what I want to program and which language would be easier to approach, but generally I'd choose `JavaScript` or `Java` as my first preference.
 
-### Career Endeavors
+### Career endeavors
 Though I took computer science courses mainly to learn and enhance my understanding of what I really want to do, I could never be sure about my decisions until I really experience working in the field. More specifically, working as a software engineer in the industry could be drastically different from my expectation of what it's like to be a programmer just from courses.
 
 
@@ -54,3 +64,5 @@ I've made some achievements off my foodventure list this past summer at San Dieg
 - [ ] Eastern Dynasty
 - [ ] Kangxi Is Coming
 - [x] ..._and the list goes on_
+
+Thank you for taking the time to read all the way here! 💝 Feel free to contact me at [v2chou@ucsd.edu](mailto:v2chou@ucsd.edu) for a chat ☕
