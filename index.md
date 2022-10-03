@@ -1,6 +1,9 @@
 # Vicky's Page
-*Welcome!* 👋 I'm Vicky, a fourth year at UC San Diego in Marshall College studying CS (~~computer science~~ cognitive science). I've taken a few computer science courses out of interest and decided to minor in it as well since I could easily fulfill the requirements. Due to the nature of cognitive science being more broad, it gives me a more open-minded perspective of many subjects and concerns in life that I think would actually be helpful if computer science majors took it seriously too. Like how Professor Powell said,
- > improving software development is **not** about the tools and techniques used by programmers, but the quality of the programmers themselves ...it's always a people problem.
+
+### *Welcome!* 👋 
+I'm Vicky, a fourth year at UC San Diego in Marshall College studying CS (~~computer science~~ cognitive science). I've taken a few computer science courses out of interest and decided to minor in it as well since I could easily fulfill the requirements. Due to the nature of cognitive science being more broad, it gives me a more open-minded perspective of many subjects and concerns in life that I think would actually be helpful if computer science majors took it seriously too. Like how Professor Powell said,
+ > improving software development is **_not_** about the tools and techniques used by programmers, but the quality of the programmers themselves ...it's always a people problem.
+
  It takes a lot to become better in programming (or any career profession) and to do so, we also have to better ourselves as a human being. I think cognitive science teaches me a lot about human perspectives and behaviors that I never really took much time to think about due to other ongoing matters in life that we're all "busy" with, but those cognitive science courses guide us to question why we do certain things the way we do. Since computer science classes heavily focus on technical skills that are for sure important to our foundation to an extent, not much spend time on making us reflect on our attitude. With the exception of this software engineering course, I'm glad our professor is taking the time to pinpoint concerns that a lot of programmers make without reflecting on what they're actually doing so that we question our actions as we dive into software engineering careers. 
 
 
@@ -23,7 +26,7 @@ Some of my hobbies include:
 * looking at corgis 🍞
 * exploring local food and cafes ☕
 
-Though I like looking at corgi (butts), I actually really like golden retrievers. I used to have a golden retriever when I was young - here's a [photo](Buddy.JPG) of him I like that I took when he was getting blown dry. 
+Though I like looking at corgi (butts), I actually really like golden retrievers. I used to have a golden retriever when I was young - here's a [photo](Buddy.JPG) of him that I like when I sneaked up my camera while he was getting blown dry after a shower. 
 
 I've made some achievements off my foodventure list this past summer at San Diego, but there are stilll quite a few I have yet to explore:
 - [x] Better Buzz
