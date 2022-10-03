@@ -9,14 +9,14 @@ I'm Vicky, a fourth year at UC San Diego in Marshall College studying CS (~~comp
 
 On a more personal note as a programmer, I don't actually have a _favorite_ programming language, but I do have preferences over others. I am most familiar with `Java`, `JavaScript`, `Python`, and `C++`, so I would naturally prefer these over other languages I'm less familiar with like `C`. Among the familiar languages, my preferences depend on what I want to program and which language would be easier to approach, but generally I'd choose `JavaScript` or `Java` as my first preference.
 
-##### Career Endeavors
+### Career Endeavors
 Though I took computer science courses mainly to learn and enhance my understanding of what I really want to do, I could never be sure about my decisions until I really experience working in the field. More specifically, working as a software engineer in the industry could be drastically different from my expectation of what it's like to be a programmer just from courses.
 
 
 I'm taking this software engineering class not just because I think it's a field I'm interested in pursuing, but also because I don't really have much foundation on software engineering principles despite having interned as a software engineer. I hope to develop a more robust understanding of software engineering and narrow down my interests within the field. Software engineering is a really broad field in my opinion, so I'm continuously exploring my path. I've mainly done web development in my career so far and am still learning more about myself, but I hope to learn from the professor and my classmates as I strive to further my skills and build a more holistic picture of my interests throughout my academic and industry experiences.
 
 
-##### About me
+### About me
 Born and raised in [Taiwan](https://www.google.com/search?q=Taiwan&rlz=1C1CHZL_enTW804TW807&ei=LDE5Y9ngOqGZptQPtJ2EIA&ved=0ahUKEwjZpvH09sD6AhWhjIkEHbQOAQQQ4dUDCA4&uact=5&oq=Taiwan&gs_lcp=Cgdnd3Mtd2l6EAMyCwguEIAEELEDENQCMggIABCABBCxAzIICAAQgAQQsQMyCAgAELEDEIMBMgUIABCABDIFCAAQgAQyCAgAEIAEELEDMggIABCABBCxAzIICAAQgAQQsQMyCwgAEIAEELEDEIMBOgoIABBHENYEELADOgoILhCxAxDUAhAKOgcIABCxAxAKOgsILhCABBDHARCvAUoECEEYAEoECEYYAFCsB1i2CmCbDWgBcAF4AIAByAGIAeoCkgEFMC4xLjGYAQCgAQHIAQjAAQE&sclient=gws-wiz), I attended an american school my entire life in Taipei, so coming to UCSD is a completely new experience outside of my bubble. 
 ![Taipei, the capital of Taiwan](https://asiaexchange.org/wp-content/uploads/2020/04/webiste_taipei_cover_2.jpg)
 
