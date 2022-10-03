@@ -43,7 +43,7 @@ Some of my hobbies include:
 * looking at corgis 🍞
 * exploring local food and cafes ☕
 
-Though I like looking at corgi (butts), I actually really like golden retrievers. I used to have a golden retriever when I was young - here's a [photo](Buddy.JPG =36x36) of him that I like when I sneaked up my camera while he was getting blown dry after a shower. 
+Though I like looking at corgi (butts), I actually really like golden retrievers. I used to have a golden retriever when I was young - here's a [photo](<img src="Buddy.JPG" width="36px">) of him that I like when I sneaked up my camera while he was getting blown dry after a shower. 
 
 I've made some achievements off my foodventure list this past summer at San Diego, but there are stilll quite a few I have yet to explore:
 - [x] Better Buzz
