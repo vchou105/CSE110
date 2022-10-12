@@ -3,9 +3,9 @@ Nice to "meet" you! Check out the sections in the page navigator below and I hop
 
 ---
 
-[My Academic Background](academic-background) **|**
-[Career Endeavors](career-endeavors) **|**
-[About Me](about-me)
+[My Academic Background](#academic-background) **|**
+[Career Endeavors](#career-endeavors) **|**
+[About Me](#about-me)
 
 ---
 
